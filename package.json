@@ -1,0 +1,26 @@
+{
+  "name": "ucwa-log",
+  "version": "0.9.2",
+    "description": "UC WA log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zack-lin/node-ucwa-log.git"
+  },
+ "author": {
+    "name": "Zack Lin",
+    "email": "linzegia@gmail.com"
+},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zack-lin/node-ucwa-log/issues"
+  },
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "log4js": "~0.6.9"
+  },
+  "homepage": "https://github.com/zack-lin/node-ucwa-log"
+}
