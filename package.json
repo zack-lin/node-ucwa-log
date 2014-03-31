@@ -1,6 +1,6 @@
 {
   "name": "ucwa-log",
-  "version": "0.9.5",
+  "version": "0.9.6",
     "description": "UC WA log",
   "main": "index.js",
   "scripts": {
